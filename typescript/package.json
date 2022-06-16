@@ -1,0 +1,21 @@
+{
+  "name": "tech-challenge-root",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "./*"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "build": "yarn workspaces foreach run build",
+    "test:e2e": "yarn workspaces foreach run test:e2e"
+  },
+  "devDependencies": {
+    "@captive/ts-config": "^1.0.1",
+    "@types/node": "^16.0.0",
+    "typescript": "4.x"
+  },
+  "packageManager": "yarn@3.2.1"
+}

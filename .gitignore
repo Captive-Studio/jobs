@@ -11,3 +11,6 @@ yarn-error.log
 # Specific
 #
 output.json
+
+**/lib/**
+**/.yarn/cache
