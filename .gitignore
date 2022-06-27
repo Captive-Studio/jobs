@@ -13,4 +13,10 @@ yarn-error.log
 output.json
 
 **/lib/**
+
+# Yarn
+#
 **/.yarn/cache
+**/.yarn/unplugged
+**/.yarn/build-state.yml
+**/.yarn/install-state.gz
