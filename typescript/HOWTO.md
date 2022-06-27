@@ -38,6 +38,7 @@ Quand le travail est fini, fournissez un lien vers votre dépôt.
 - Le code doit être "clean" (Dernière syntaxe ECMA, Typescript sûr, séparation des couches, des modules)
 - L'utilisation des libraries NPM est autorisée
 - Les tests doivent être présents (Montrez-nous ce que vous savez faire de mieux : TDD, unitaire, integration, etc.)
+  - `jest` est pré-installé mais vous avez le droit de changer si vous préférez une autre
 - Utiliser des fonctions asynchrone uniquement :
   - exemple #1 : `fs.xxxxxSync` ne doit pas être utilisé
   - exemple #2 : `import data from 'xxxx.json'` ne doit pas être utilisé
