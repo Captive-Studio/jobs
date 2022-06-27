@@ -1,6 +1,14 @@
-/** @type {import('ts-jest/dist/types').InitialOptionsTsJest} */
 module.exports = {
-    preset: 'ts-jest',
-    testEnvironment: 'node',
-    rootDir: './src'
+    preset: 'es-jest',
+    testPathIgnorePatterns: [
+        '/node_modules/',
+        '/lib/',
+        '/build/',
+        '/.cache/',
+        '/docs/',
+        '/public/',
+    ],
+    moduleNameMapper: {
+        '^(\\.{1,2}/.*)\\.js$': '$1',
+    },
 };
