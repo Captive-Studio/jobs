@@ -1,7 +1,5 @@
 # Tech Challenge
 
-> ⚠️ **Assurez-vous d'avoir bien lu le [HOWTO.md](./HOWTO.md) avant de commencer**
-
 ## Intention
 
 Ce test simule un scenario dans lequel la *Tech team* doit créer un nouveau

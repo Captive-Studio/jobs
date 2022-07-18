@@ -1,4 +1,6 @@
-# Test technique
+# Sujet du test technique
+
+> ⚠️ **Assurez-vous d'avoir bien lu le [HOWTO.md](./HOWTO.md) avant de commencer**
 
 ## Intro
 
