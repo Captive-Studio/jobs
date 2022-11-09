@@ -22,5 +22,5 @@
     "jest": "^28.1.1",
     "typescript": "4.x"
   },
-  "packageManager": "yarn@3.2.1"
+  "packageManager": "yarn@3.2.4"
 }
