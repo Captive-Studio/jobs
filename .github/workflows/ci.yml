@@ -20,6 +20,7 @@ jobs:
         with:
           node-version: lts/*
           cache: yarn
+          cache-dependency-path: 'typescript/yarn.lock'
       - run: |
             cd typescript;
             yarn install;
