@@ -15,7 +15,7 @@
     "test:e2e": "yarn workspaces foreach run test:e2e"
   },
   "devDependencies": {
-    "@captive/ts-config": "2.0.2",
+    "@captive/ts-config": "2.1.0",
     "@types/jest": "^29.0.0",
     "@types/node": "^16.0.0",
     "es-jest": "2.1.0",
