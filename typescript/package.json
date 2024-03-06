@@ -20,7 +20,7 @@
     "@types/node": "16.18.86",
     "es-jest": "2.1.0",
     "jest": "29.7.0",
-    "typescript": "5.3.3"
+    "typescript": "5.4.2"
   },
   "packageManager": "yarn@4.1.1"
 }
