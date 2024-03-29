@@ -409,15 +409,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@captive/ts-config@npm:2.1.1":
-  version: 2.1.1
-  resolution: "@captive/ts-config@npm:2.1.1"
+"@captive/ts-config@npm:2.1.2":
+  version: 2.1.2
+  resolution: "@captive/ts-config@npm:2.1.2"
   peerDependencies:
     typescript: ">=5.x"
   peerDependenciesMeta:
     typescript:
       optional: true
-  checksum: 10c0/16056e12f12db2ba3be222fe7503012e6d993ed5f552bd21095636d142a28a3751d0717c31de3b45a849b4d5c9a0364b9c106404b7ea4c366bcd907b48a42b4f
+  checksum: 10c0/cf0e7f764e5da4a56a906defb6fe544fe48b73158cb652e32e3c5e97cc924ec778f326af2c0e2dac7719fbefd37692103c99bce3dabc2379cde0b1d74775e9de
   languageName: node
   linkType: hard
 
@@ -3566,7 +3566,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "tech-challenge-root@workspace:."
   dependencies:
-    "@captive/ts-config": "npm:2.1.1"
+    "@captive/ts-config": "npm:2.1.2"
     "@types/jest": "npm:29.5.12"
     "@types/node": "npm:16.18.91"
     es-jest: "npm:2.1.0"
