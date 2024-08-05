@@ -1,4 +1,10 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>Captive-Studio/renovate-config:application"]
+  "extends": ["github>Captive-Studio/renovate-config:application"],
+  "packageRules": [
+    {
+      "matchPackageNames": ["node", "ruby"],
+      "matchUpdateTypes": ["patch", "minor"]
+    }
+  ]
 }
