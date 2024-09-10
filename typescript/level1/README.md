@@ -12,5 +12,5 @@ Les prix sont exprimés en centimes.
 
 INSTRUCTIONS :
 
-- `node lib/index.js` doit générer un nouveau fichier `output.json`
+- `node dist/index.js` doit générer un nouveau fichier `output.json`
 - `output.json` doit être égal à `expected_output.json`

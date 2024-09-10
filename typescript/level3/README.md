@@ -10,5 +10,5 @@ Il y a deux types de réduction:
 INSTRUCTIONS :
 
 - Copier le code depuis level2 dans level3
-- `node lib/index.js` doit générer un nouveau fichier `output.json`
+- `node dist/index.js` doit générer un nouveau fichier `output.json`
 - `output.json` doit être égal à `expected_output.json`
