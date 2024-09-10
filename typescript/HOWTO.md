@@ -26,6 +26,9 @@ Ce challenge a pour but d'évaluer les capacités suivantes :
 
 ## Travail attendu
 
+> [!WARNING]
+> S'assurer constamment que `yarn test:e2e` fonctionne. Elle est la seule commande qui sera lancé par l'examinateur pour tout vérifier.
+
 - [Dupliquez](https://help.github.com/articles/duplicating-a-repository/) ce dépôt (ne **pas** le forker)
 - Résoudre les niveaux dans l'ordre
 - **Commit souvent et de manière atomique** pour montrer l'évolution du code
