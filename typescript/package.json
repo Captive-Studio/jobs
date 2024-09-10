@@ -12,7 +12,7 @@
   "scripts": {
     "build": "yarn workspaces foreach --all run build",
     "test:unit": "yarn workspaces foreach --all run test:unit",
-    "test:e2e": "yarn install --immutable;yarn workspaces foreach --all run test:e2e"
+    "test:e2e": "yarn install --immutable;yarn build;yarn workspaces foreach --all run test:e2e"
   },
   "devDependencies": {
     "@captive/ts-config": "2.2.0",
