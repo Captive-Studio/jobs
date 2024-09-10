@@ -8,8 +8,8 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "build": "tsc",
-    "test:unit": "jest",
+    "build": "npx tsc",
+    "test:unit": "npx jest",
     "test:e2e": "../e2e.sh"
   }
 }
