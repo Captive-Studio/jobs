@@ -10,9 +10,9 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "build": "yarn workspaces foreach run build",
-    "test:unit": "yarn workspaces foreach run test:unit",
-    "test:e2e": "yarn workspaces foreach run test:e2e"
+    "build": "yarn workspaces foreach --all run build",
+    "test:unit": "yarn workspaces foreach --all run test:unit",
+    "test:e2e": "yarn workspaces foreach --all run test:e2e"
   },
   "devDependencies": {
     "@captive/ts-config": "2.2.0",
