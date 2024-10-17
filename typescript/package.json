@@ -17,7 +17,7 @@
   "devDependencies": {
     "@captive/ts-config": "2.2.1",
     "@types/jest": "29.5.13",
-    "@types/node": "16.18.113",
+    "@types/node": "16.18.114",
     "es-jest": "2.1.0",
     "jest": "29.7.0",
     "typescript": "5.6.3"
