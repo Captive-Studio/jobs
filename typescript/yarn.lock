@@ -1018,10 +1018,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.18.115":
-  version: 16.18.115
-  resolution: "@types/node@npm:16.18.115"
-  checksum: 10c0/5e249e27f6c3d7666cb76c7634009d0a4846d6e778c2c0b87c9d182de43ef81300bf022fa1785f909f11467115063762646025289df0c2b6b6b942be64b4014f
+"@types/node@npm:16.18.116":
+  version: 16.18.116
+  resolution: "@types/node@npm:16.18.116"
+  checksum: 10c0/523ad152b2940361139cb9de74d420854b2d7f85e88802426d2c6c7da69cc97e65da61fe6ac018d9fb1fd9e5335bab986c62b0259168b0bce2e2066a75fdcd75
   languageName: node
   linkType: hard
 
@@ -3495,7 +3495,7 @@ __metadata:
   dependencies:
     "@captive/ts-config": "npm:2.3.0"
     "@types/jest": "npm:29.5.14"
-    "@types/node": "npm:16.18.115"
+    "@types/node": "npm:16.18.116"
     es-jest: "npm:2.1.0"
     jest: "npm:29.7.0"
     typescript: "npm:5.6.3"
